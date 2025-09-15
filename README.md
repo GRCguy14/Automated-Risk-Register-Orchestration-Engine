@@ -25,7 +25,7 @@ Full project documentation with detailed explanations:
 ---
 
 ## Import Process
-- Source: CSV → [NimbusTech_Risks.csv]([./NimbusTech_Risks.csv](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Riskregi-NimbusTechServicenow%20-%20Sheet1.csv))  
+- Source: CSV → [NimbusTech_Risks.csv]([[./NimbusTech_Risks.csv](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Riskregi-NimbusTechServicenow%20-%20Sheet1.csv)](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Riskregi-NimbusTechServicenow%20-%20Sheet1.csv))  
 - Staging: `u_risk_import`  
 - Transform Map: Coalesced on `Name`  
 - Outcome: Updates existing risks or inserts new risks if missing  
@@ -38,7 +38,10 @@ Full project documentation with detailed explanations:
 - Flow Designer automation (full diagram)  
 - Risk Register list with Inherent Score, Risk Rating, Number  
 
-*(Add these screenshots into the repo under `/screenshots/` and link them here.)*  
+[Risk Register](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/Risk%20Register.png)  
+[Individual Risk Entry](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/Individual%20risk%20entry.png)
+[Imported CSV File](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/CSV%20import%20excel.png)
+
 
 ---
 
