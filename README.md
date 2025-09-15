@@ -40,7 +40,6 @@ Full project documentation with detailed explanations:
 
 [Risk Register](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/Risk%20Register.png)  
 [Individual Risk Entry](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/Individual%20risk%20entry.png)  
-
 [Imported CSV File](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/CSV%20import%20excel.png)
 
 
