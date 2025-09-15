@@ -20,12 +20,12 @@ Full project documentation with detailed explanations:
   - ≥ 12 → Unacceptable – Must Treat  
 - Update Risk Record  
 
-![Flow Diagram]([./https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/Flow-architecture.png.png](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/Flow-architecture.png.png))   
+[Flow Diagram](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/Flow-architecture.png.png) 
 
 ---
 
 ## Import Process
-- Source: CSV → [NimbusTech_Risks.csv]([[./NimbusTech_Risks.csv](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Riskregi-NimbusTechServicenow%20-%20Sheet1.csv)](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Riskregi-NimbusTechServicenow%20-%20Sheet1.csv))  
+- Source: CSV → [CSV file](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Riskregi-NimbusTechServicenow%20-%20Sheet1.csv)
 - Staging: `u_risk_import`  
 - Transform Map: Coalesced on `Name`  
 - Outcome: Updates existing risks or inserts new risks if missing  
