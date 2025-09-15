@@ -7,7 +7,7 @@ The system ingests risk data from an ISO 27001-aligned ISMS risk register (CSV i
 
 ## Documentation
 Full project documentation with detailed explanations:  
-👉 [ARROE_Documentation.pdf](Automated Risk Register Orchestration Engine (ARROE) (1).pdf)
+👉 [ARROE_Documentation.pdf](./Automated Risk Register Orchestration Engine (ARROE) (1).pdf)
 
 ---
 
@@ -20,7 +20,7 @@ Full project documentation with detailed explanations:
   - ≥ 12 → Unacceptable – Must Treat  
 - Update Risk Record  
 
-![Flow Diagram](./flow-architecture.png) *(insert screenshot of your flow here)*  
+![Flow Diagram](./https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Screenshots/Flow-architecture.png.png)   
 
 ---
 
