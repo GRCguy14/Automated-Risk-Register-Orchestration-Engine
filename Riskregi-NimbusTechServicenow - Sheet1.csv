@@ -1,0 +1,16 @@
+Name,Description,Likelihood,Impact,Treatment,Owner,Status,LinkedSoA
+Customer Database ,Unauthorized access to customer PII,4,5,Mitigate,CISO,In Progress,"A.5.1, A.5.2, A.8.34"
+Cloud Storage,Data leakage due to misconfiguration,3,5,Mitigate,IT Manager,Open,"A.5.23, A.8.9"
+Employee Laptops ,Malware via phishing,4,4,Mitigate,HR Manager ,In Progress,"A.5.7, A.8.16"
+SaaS Application,Exploitation of insecure code,3,5,Mitigate,Dev Lead,Open,"A.5.8, A.8.28"
+Backup Systems,Ransomware encrypts backups,3,5,Mitigate,IT Manager,In Progress,A.8.10
+Test Environment,Leakage of masked test data,3,4,Mitigate,QA Lead,Planned,A.8.11
+Vendor Services,Vendor mishandles client data,3,4,Transfer,Procurement,Open,A.8.30
+HR Records,Breach of employee PII,3,4,Mitigate,HR Manager ,Open,A.5.34
+Application Logs,Logs tampered/ deleted,2,5,Mitigate,IT Security Analyst ,In Progress,"A.8.15, A.8.16"
+Customer Portal,DDoS Attack disrupts service,3,5,Mitigate,IT Manager,Planned,"A.8.6, A.8.16"
+Finance systems,Fraudulent changes,2,5,Mitigate,CFO,Open,"A.5.2, A.8.15"
+Compliance Reporting,Fines for missed reporting,2,4,Transfer,Compliance Officer,Planned,A.5.5
+Email Accounts,Account compromise,3,4,Mitigate,IT Security Analyst ,Open,"A.5.7, A.8.16"
+DevOps Pipeline,Code leaked via outsourced dev,3,4,Transfer,Dev Lead,Open,"A.8.28, A.8.30"
+Cloud Infrastructure,Capacity overload causes outage,2,5,Mitigate,IT Manager,In Progress,"A.8.6, A.8.16"
