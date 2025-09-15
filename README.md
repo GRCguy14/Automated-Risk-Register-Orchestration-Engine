@@ -7,7 +7,7 @@ The system ingests risk data from an ISO 27001-aligned ISMS risk register (CSV i
 
 ## Documentation
 Full project documentation with detailed explanations:  
-👉 [ARROE_Documentation.pdf]([./Automated Risk Register Orchestration Engine (ARROE) (1).pdf](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Automated%20Risk%20Register%20Orchestration%20Engine%20(ARROE)%20(1).pdf))
+[ARROE_Documentation.pdf]([./Automated Risk Register Orchestration Engine (ARROE) (1).pdf](https://github.com/GRCguy14/Automated-Risk-Register-Orchestration-Engine/blob/main/Automated%20Risk%20Register%20Orchestration%20Engine%20(ARROE)%20(1).pdf))
 
 ---
 
